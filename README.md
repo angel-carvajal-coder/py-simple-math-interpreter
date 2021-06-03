@@ -1,8 +1,8 @@
-# Python - Simple Math Interpreter
+# Python - Programming Language based on Simple Math Interpreter
 
-An interpreter, written from scratch in Python, that can evaluate simple math calculations.
+An interpreter, written from scratch in Python, that can evaluate simple expressions.
 
-This is useful for learning how computers process human-readable text and is a great first step to creating your own programming language, data language, etc.
+This is useful for learning how computers process human-readable text.
 
 The user input is analyzed in two sections of code called the lexer and parser, before finally being interpreted by the interpreter.
 
